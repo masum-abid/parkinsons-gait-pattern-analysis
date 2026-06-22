@@ -1,0 +1,10 @@
+feature,Control higher,Parkinson higher
+contact_count_difference,0.0,3.0
+cv_contact_duration_difference,2.0,1.0
+cv_left_contact_duration,1.0,2.0
+cv_right_contact_duration,1.0,2.0
+left_contacts_per_sec,2.0,1.0
+mean_contact_duration_difference,0.0,3.0
+mean_left_contact_duration,1.0,2.0
+mean_right_contact_duration,1.0,2.0
+right_contacts_per_sec,2.0,1.0
